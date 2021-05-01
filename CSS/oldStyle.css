@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Rubik:wght@500&display=swap');
+/* .greeting{
+font-family: Roboto;
+border-bottom: 2px solid black;
+width: 250px; */
+/* } */
+*{
+    scroll-behavior: smooth;
+    font-family: Roboto;
+}
+h1{
+    font-family: Rubik;
+    font-size: 60px;
+    border-bottom: 2px solid black;
+}
+header{
+    font-family: Roboto;
+    font-size: 16px;
+    border-bottom: 2px solid black;
+}
+.subheader{
+    font-family: Rubik;
+    font-size: 12px;
+}
+.header__about{
+    font-size: 30px;
+    border-bottom: 2px solid black;
+}
+.projects__title{
+    font-size: 30px;
+    border-bottom: 2px solid black;
+}
+.contact__title{
+    font-size: 30px;
+    border-bottom: 2px solid black;
+}
+.projectlist__items{
+    font-size: 20px;
+    
+}
+.project__fortune{
+    border-bottom: 1px solid black;
+}
+.project__virtual{
+    border-bottom: 1px solid black;
+}
+.project__fizz{
+    border-bottom: 1px solid black;
+}
+.project__snips{
+    
+}
+.git__link{
+    width: 180px;
+}
+.social__icons{
+    list-style-type: none;
+}
+.lin__link{
+    width: 200px;
+}
+.skills__title{
+    font-size: 30px;
+    border-bottom: 2px solid black;
+}
+.css__logo{
+    widows: 200px;
+}
+.skills__list{
+    font-size: 20px;
+}
+.thumbnail:hover {
+    position:relative;
+    top:-25px;
+    left:-35px;
+    width:200px;
+    height:auto;
+    display:block;
+    z-index:999;
+}
+
+/* .greeting__container{
+    background-image: ;
+} */
