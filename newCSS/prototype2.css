@@ -316,6 +316,9 @@ a {
   justify-content: left;
   padding-left: 2rem;
 }
+/* #main-pic:hover{
+  : url("/newImages/Color_We\ Dem\ Boyz!.jpg");
+} */
 .about-container{
   display: flex;
   justify-content: space-around;
@@ -461,10 +464,10 @@ a {
 }
 
 .project-list{
-  /* display: flex;
+  display: flex;
   flex-direction: row;
   display: inline-flex;
-  text-decoration: ; */
+  text-decoration: ;
 }
 .project-skills{
   width: 500px;
