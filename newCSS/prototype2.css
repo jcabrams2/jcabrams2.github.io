@@ -489,4 +489,10 @@ a {
 }
 #page2{
  padding-left: 20px;
+ height: 600px;
+  width: auto;
+}
+#page1{
+  height: 600px;
+  width: auto;
 }
